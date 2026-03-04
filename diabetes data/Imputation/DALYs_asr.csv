@@ -1,0 +1,205 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,941.2030058551046,1165.8442635404563,775.3523715491884
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3556.1052280717045,4371.481128159199,2870.8526287552704
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1563.162192249476,1937.7785707779365,1255.3782938969716
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1502.187371260191,1819.9419808727573,1224.0311282642185
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,716.9690137369349,885.4289118203407,596.2309091316318
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,481.2997241800672,613.5945263858755,380.59554161451234
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1900.2023192446868,2391.615309876623,1451.1812532031488
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,730.2285146506795,904.0975681641108,591.8630505113565
+2,DALYs (Disability-Adjusted Life Years),106,Bahamas,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1756.3374092227778,2176.438351638299,1414.467560495438
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,525.265295544788,695.884140851584,392.90355487727453
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,479.9544083863167,642.4636337193286,358.4519293182295
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,566.4141769310684,764.4487047180153,416.472482293785
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1422.1969012447732,1856.526674824392,1087.4577368964112
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1102.3313218617652,1295.8213346149928,941.3485918859819
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1098.14952096867,1451.7383019921356,824.084449862128
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,703.7960750342726,918.9483845928461,555.5444442410459
+2,DALYs (Disability-Adjusted Life Years),142,Iran (Islamic Republic of),3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,992.5617826912843,1205.6603865599322,822.5124916141554
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2385.9823962926503,2732.489609945914,2084.1578807333794
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2203.062083481802,2417.4305814839377,2003.685453106771
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1851.3289519755133,2168.3740555098098,1567.1414763161913
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1266.4195954021063,1560.021785064859,1031.2242559330807
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,578.9540131133382,745.4877918906897,441.75129838096154
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3459.43208268991,3910.718259213536,3118.667957390564
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2832.351694592435,3286.8702299393203,2459.8840138313117
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1538.5854235366276,1913.9733052562592,1239.6622627843203
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1511.045314277473,1829.3791488404515,1198.4084564995512
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2221.192148270621,2723.140752377528,1830.2364174379159
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1184.5806784035206,1481.2072347570158,957.8354323227392
+2,DALYs (Disability-Adjusted Life Years),197,Eswatini,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3355.6623872485757,4304.517910648595,2584.1422522352937
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1033.159345676774,1304.1677711018363,832.3883158169912
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1637.0462153893473,2000.7305285549185,1332.508510835693
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,991.0388094242512,1169.2530149698619,841.1793020770261
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1751.0636262197108,2107.833491142519,1428.3944571507168
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2049.1154444863346,2383.557569474518,1783.0610890678715
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,492.92074600058237,608.2241481147097,396.82065796817665
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1569.1120701010411,2021.1871095417985,1190.9433786482557
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1761.5564303618096,2246.300786613566,1409.9418466219506
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3386.347281499709,4137.539355660151,2803.033766921175
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3008.671096742467,3637.8015820799574,2526.5188903706958
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2068.0682977918195,2642.4399362731,1649.2262956030304
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2097.560181495958,2539.841941251319,1731.7568263299236
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1979.2236015318088,2551.19872323607,1520.6511613918522
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1008.3326645126235,1224.9345499291094,823.788056828905
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,756.4191111740611,965.004843089312,603.0959806513312
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1533.1220405179022,1886.37928730927,1231.8851709176945
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,961.27741810573,1227.6678151059032,736.9163926867894
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,438.4298344000293,548.566696102502,361.1715856446231
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,534.823963000494,684.4511007504882,419.3490568157291
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,504.125167593388,687.34186227926,365.4120979119642
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2135.637585316611,2573.6015883451996,1774.3185938774589
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,942.8509226167447,1169.6633838974474,753.186327409444
+2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1382.6578854699583,1692.1383541546659,1123.0323109916471
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1287.5559710811565,1576.7899702406778,1071.3408045410522
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3263.6241079714023,3919.0672237903677,2683.976830729122
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,562.3663278014594,721.2188509476177,439.03134773824075
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1124.8023195827088,1446.3414511130434,882.471184429026
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,430.61668098927163,563.0653779924338,329.8312012881369
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,572.6510043792523,786.0389470984801,417.3528988251247
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1692.800760063188,2019.4089928925532,1428.7662116759475
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1971.17123346578,2400.011283171239,1638.5220771887462
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1990.3838958158437,2413.629080640873,1659.198507695344
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3392.519565662563,4078.8927847590458,2821.4481982300554
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1973.7948308539783,2542.351696757028,1535.8379812969968
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1160.464573787224,1446.6869758125097,945.0527060998407
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,728.561039278397,915.695571817392,588.0204608651333
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2530.109789574546,3114.042713592659,2050.5684425906943
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2723.704961616452,3231.249657254144,2323.2571910764755
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,414.373098415303,554.7684415581342,304.7783790346236
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1062.4874349075878,1356.3089578117635,838.119101178273
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,4418.850504996423,5234.086113767005,3791.955624711078
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,724.3424721363974,931.6675207056861,561.6530712822424
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,751.9335319306739,927.9160443378998,607.0377587798505
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,356.57354036322477,455.4096191889161,281.55988092803943
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1644.8412766489303,1976.3741630139136,1377.1758797044627
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1666.8786277227257,2050.2847711411696,1356.3496114426985
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1038.4052631244585,1300.1638129382768,836.9655309877329
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1262.6081289859292,1525.630085134313,1029.958421907921
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,398.90223142463753,513.2823151251287,305.32516521074575
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,933.1554038933283,1260.9387030237226,690.4280085539607
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,407.13779037037864,507.82925501649953,327.6633140929343
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1649.1540098907728,1930.1723492124709,1415.9458235494508
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,639.257918105655,844.2254461152614,474.1936898549813
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3401.4393509453635,3983.787987135337,2888.970275916167
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1074.1667829356877,1381.1986188668343,836.3596212771553
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1794.038439499418,2142.9503057394136,1542.2842310298338
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2406.4170704807143,2770.5357995166414,2118.2798023132186
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1423.473262980606,1802.0982857985014,1159.3172928883118
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2910.9092095290143,3698.380936322308,2307.258049708607
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,864.5777178269054,1073.2014951541341,697.8146330524926
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2314.185578065142,2826.60487096702,1922.8243145075173
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1077.8875139671175,1322.9322174434192,875.0334504902063
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1500.9062923415536,1892.2917786753194,1177.2873313576677
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,435.2200469249868,573.2614435268467,332.51160377486286
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,775.5124587281168,941.0525809785221,641.2121806174441
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1213.6101664801713,1525.2621188399378,979.2944405974101
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1013.3600648455667,1273.1564695283657,797.1391698988496
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1151.375968414146,1373.4281573529195,981.4069651399083
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3625.6469227815355,4423.072464772723,3000.5869750772895
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,345.91975432320714,436.8074388982391,272.2146623854926
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,648.8135025157657,915.8744073966204,454.82634944934944
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1257.6326564106955,1717.5645943311638,946.2245754196917
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2141.1196501980203,2555.0618120856216,1798.5289300160582
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,479.467276937388,606.351362744333,380.81316357911504
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1138.1823074084118,1383.716867496868,935.9924753232463
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1586.6320061203862,1872.5249372743335,1291.8278390435028
+2,DALYs (Disability-Adjusted Life Years),374,Niue,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,4166.7006214773455,5133.871832537072,3327.6565101321485
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1019.814555838436,1260.4455103241812,820.0559902277917
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,884.1714465082197,1082.974140324692,732.88984578686
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,4015.675839810076,4808.289635855278,3365.8531884609697
+2,DALYs (Disability-Adjusted Life Years),396,San Marino,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,398.7856888514458,533.2645026591838,295.9932472441227
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2269.3838524875573,2842.6568382324613,1833.7050315491838
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1348.548799981531,1679.9952804505963,1028.989423694294
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1071.9390373641104,1245.9802865277538,880.6471225665135
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1499.990004823253,1829.0585568418796,1220.1508304096221
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1434.2237866861199,1834.5081023575058,1147.7737922541903
+2,DALYs (Disability-Adjusted Life Years),47,Czechia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,828.0834294750176,1035.9272315890469,664.7696053560883
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,492.70605869419705,618.3775094289826,387.4674012440232
+2,DALYs (Disability-Adjusted Life Years),369,Nauru,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,4902.084718033859,5963.333099560424,4050.599478621518
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,900.4836141518957,1135.0407189634327,726.959438019588
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,5782.8294083239725,7729.3385912582935,4443.904122081914
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,902.3865666458014,1104.24443671173,747.2506260946817
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,453.4510436238798,584.0106430387433,358.2373287017327
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,385.4723428530474,504.90125609963764,289.43977821107796
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,742.2030785441442,959.8590895304914,571.2255947942936
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1279.0469072004967,1669.5133523474105,1011.1751373628183
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,544.2724044714192,673.2257772244927,448.9529733914614
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1104.4324631893066,1500.9992251882716,757.2278976829407
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1384.998218127634,1735.191573715877,1106.809481457727
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1554.6898699924564,1947.0482569058513,1218.0248671504385
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,441.6189922374209,571.7018531840905,341.50095835356876
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1245.308477385673,1697.1914276583007,943.585143240627
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3492.496478764993,4271.730333958679,2854.29750194016
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,471.97877152492725,611.1732355672452,369.52463318090355
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,691.4716191806242,839.2787558243606,570.658126455686
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1897.5473318316601,2271.420657793031,1560.0524171015552
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,644.5114152551238,836.2397033468048,497.8325534322787
+2,DALYs (Disability-Adjusted Life Years),380,Palau,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3734.6921429005,4524.0908227481505,3087.2732017763396
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1538.157732405929,1989.4817038279548,1184.811471049715
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,696.2766697665867,859.226870504325,572.5784289132089
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2160.9732420906716,2616.416869610404,1800.796490357625
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1253.1640169036016,1507.3391554741058,1028.6878083904526
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,5555.863772555342,6967.293104466067,4527.995527513531
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1478.1476165228858,1811.6952661846951,1230.3778687117929
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1248.7496289803769,1522.3933921053874,998.9146852798312
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,497.9024928407762,645.4729883772494,393.0698452036604
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,399.8622726263484,540.8441499390165,292.93463300441897
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2164.002451698214,2750.8791082341722,1739.908926639232
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1157.0098406431564,1425.946146207362,963.47236856347
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1592.3249293352928,2001.1198283365163,1241.338844363357
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1108.2946499437303,1282.175099842567,957.2601436704529
+2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1321.8623839605734,1638.922297500514,1091.815363508594
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1067.965764462247,1294.8963291719822,875.1026773700067
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,556.078829848712,699.0590720914242,436.0232924635271
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,988.6925855072644,1196.1798016362743,825.4371651726238
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,798.5834508136835,1029.0408329744632,609.8227785572627
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,800.1081453503332,979.535557530051,667.8678380358876
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1430.712041493546,1810.2022570604358,1121.8926331750274
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,741.1455290670706,933.084490648008,589.8609222709002
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1585.1586924425656,1915.2609079007025,1237.6775360688894
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1761.6969380406695,2099.504453556332,1485.071870975203
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1693.8414405607612,2175.8289428440157,1303.12715042951
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1094.4852334362745,1320.1125389868937,915.775809607583
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,511.5534046818145,649.7100282375193,410.4129508767159
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,781.0615952242388,1022.8390771949466,607.5113851420991
+2,DALYs (Disability-Adjusted Life Years),20,Viet Nam,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1112.4021855636515,1338.0439784627504,913.5375652546791
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,832.2690646239633,1050.089859678714,655.9399680796017
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1618.7514797223298,1961.1805975358734,1300.878297463777
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3472.0722943400865,4141.386320041528,2935.9715953252853
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,533.3630993852263,713.842914916194,390.89785833856416
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1447.8861737466561,1777.1378889782045,1187.4476081548048
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1556.4492281318312,1920.5512688670306,1292.4608352454125
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1025.5739409760856,1273.2222373112993,824.5160626007192
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1220.4861719463272,1509.9466747879708,982.8454720752077
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1338.1990459777926,1613.7869126842918,1091.0825775032886
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,579.357102702257,715.0514906398696,459.37351031213376
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1095.3338379978416,1269.0938665414878,944.3649933559001
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,840.0908680768388,1058.7966062905095,677.7784654734899
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,674.0453414933361,808.4028485754151,566.668033176163
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2132.2117507682815,2592.671978017844,1739.5039962980647
+2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3949.945819794946,4834.930290102867,3176.8656164705576
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1196.297310475202,1489.8498805000008,942.6786330641465
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,731.277189867645,919.9543096327686,582.184722547307
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,655.339353106407,824.3322183625154,521.9772779590929
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1555.960166257262,1966.8370323310828,1196.768550474842
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1908.0894968896034,2333.281963808514,1517.120756127676
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1945.9078507715371,2372.4730375366476,1594.3174080811518
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,917.3836118377549,1146.4660921843183,741.0833319423837
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,869.7438822931124,1101.1095476295402,671.1091099743148
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1084.9953144361623,1362.7732879002706,873.0663900373629
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,710.0398298950518,913.9546819974559,546.3339365939424
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,3082.342335418987,3762.321534997593,2555.708901396852
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,626.7074940777658,781.0293558202212,511.73132855989996
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1034.1285944164533,1293.3942396367554,813.7469431911777
+2,DALYs (Disability-Adjusted Life Years),367,Monaco,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,368.51225673582786,492.5135064674917,272.2858829570298
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,7397.315094422707,9124.066786562298,6053.740963534759
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2567.1349682457144,3091.0767535699733,2160.288730758657
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2124.202661681195,2586.8956081048523,1694.250094648747
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1284.4076341145044,1516.1629051057892,1071.5647862066114
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1042.118721289552,1293.391208882805,835.6545021283955
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2005.0214121003041,2435.8398025141482,1668.626637276508
+2,DALYs (Disability-Adjusted Life Years),206,Gambia,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1396.546213559297,1741.1080538018468,1125.4387210186733
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,1320.4460567381252,1477.8598491433668,1190.4445705924568
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,2686.736526736982,3344.448444719524,2105.2401096084827
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,27,Age-standardized,587,Diabetes mellitus,3,Rate,2020,900.3636085943492,1147.706694852054,710.8495149625888
